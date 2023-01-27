@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: rgb(207, 46, 46);
+    margin-bottom: 12px;
+}
+h2 {
+    color: black;
+    background-color: rgb(240, 193, 74);
+    font-style:italic;
+    display: block;
+    font-size: 18px;
+    width: 6em;
+}
+p {
+
+}
+ul {
+
+}
+#contact {
+    text-align: center;
+}
+.section {
+    display: flex;
+    
+}
+.section-content {
+    margin-left: 1em;
+    flex-shrink: 50;
+}
+
